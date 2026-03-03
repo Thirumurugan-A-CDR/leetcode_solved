@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -36,8 +37,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
