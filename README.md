@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -19,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 ## String
@@ -82,12 +84,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
+| [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
