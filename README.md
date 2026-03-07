@@ -89,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0933-number-of-recent-calls](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,4 +140,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0933-number-of-recent-calls/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0933-number-of-recent-calls](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0933-number-of-recent-calls/) | Easy |
 <!---LeetCode Topics End-->
