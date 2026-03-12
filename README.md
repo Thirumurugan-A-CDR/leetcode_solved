@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0299-bulls-and-cows/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -83,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0299-bulls-and-cows/) | Medium |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
+| [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
