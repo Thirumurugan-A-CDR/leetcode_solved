@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -201,4 +202,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 <!---LeetCode Topics End-->
