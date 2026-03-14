@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
