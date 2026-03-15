@@ -217,4 +217,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
