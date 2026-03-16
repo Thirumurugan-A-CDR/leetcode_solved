@@ -23,11 +23,8 @@ bool func(vector<int>& piles,int h,int mid)
             return false;
         }
     }
-        if(hours<=h)
-        {
+       
             return true;
-        }
-        return false;
 }
 
 
