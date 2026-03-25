@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,4 +232,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0577-employee-bonus/) | Easy |
 | [0595-big-countries](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0595-big-countries/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 <!---LeetCode Topics End-->
