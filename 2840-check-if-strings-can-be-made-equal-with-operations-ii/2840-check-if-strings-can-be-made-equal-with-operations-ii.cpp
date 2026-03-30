@@ -2,13 +2,6 @@ class Solution {
 public:
     bool checkStrings(string s1, string s2) {
        if(s1==s2)return true;
-       string t1=s1;
-       string t2=s2;
-       sort(s1.begin(),s1.end());
-       sort(s2.begin(),s2.end());
-       if(s1!=s2)return false;
-       s1=t1;
-       s2=t2;
        string odd1="";
        string odd2="";
        string even1="";
