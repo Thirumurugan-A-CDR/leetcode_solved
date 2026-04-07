@@ -266,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0196-delete-duplicate-emails](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0577-employee-bonus/) | Easy |
+| [0584-find-customer-referee](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0595-big-countries/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
