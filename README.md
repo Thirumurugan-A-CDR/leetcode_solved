@@ -268,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0577-employee-bonus](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0595-big-countries/) | Easy |
+| [0596-classes-with-at-least-5-students](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0619-biggest-single-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0619-biggest-single-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
