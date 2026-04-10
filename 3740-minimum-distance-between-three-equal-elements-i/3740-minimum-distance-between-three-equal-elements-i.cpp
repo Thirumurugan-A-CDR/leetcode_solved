@@ -6,11 +6,11 @@ public:
         {
             return -1;
         }
-        for(int i=0;i<nums.size();i++)
+        for(int i=0;i<nums.size()-2;i++)
         {
-            for(int j=0;j<nums.size();j++)
+            for(int j=i+1;j<nums.size()-1;j++)
             {
-                for(int k=0;k<nums.size();k++)
+                for(int k=j+1;k<nums.size();k++)
                 {
                     if(i!=j && j!=k && k!=i)
                     {
