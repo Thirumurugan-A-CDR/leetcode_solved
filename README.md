@@ -185,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
