@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
+| [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
