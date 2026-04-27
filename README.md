@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0064-minimum-path-sum/) | Medium |
 | [0120-triangle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0120-triangle/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0064-minimum-path-sum/) | Medium |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
