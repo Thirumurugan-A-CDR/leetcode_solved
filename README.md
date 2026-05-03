@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0796-rotate-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -300,4 +301,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0796-rotate-string/) | Easy |
 <!---LeetCode Topics End-->
