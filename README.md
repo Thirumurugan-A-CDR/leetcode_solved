@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
+| [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Binary Search
@@ -307,4 +309,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0796-rotate-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0796-rotate-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
 <!---LeetCode Topics End-->
