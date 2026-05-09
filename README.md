@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0875-koko-eating-bananas](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0896-monotonic-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0896-monotonic-array/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Dynamic Programming
@@ -316,4 +318,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 <!---LeetCode Topics End-->
