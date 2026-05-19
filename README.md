@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1539-kth-missing-positive-number/) | Easy |
+| [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -150,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 ## Divide and Conquer
@@ -164,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0832-flipping-an-image/) | Easy |
+| [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
