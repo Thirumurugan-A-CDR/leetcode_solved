@@ -8,18 +8,7 @@ public:
         for(int x:arr)
         {
             tot+=x;
-            if(x==0)
-            {
-                zero++;
-            }
-            if(x<0)
-            {
-                neg++;
-            }
-            else
-            {
-                pos++;
-            }
+           
         }
         
         if(tot%3!=0)
