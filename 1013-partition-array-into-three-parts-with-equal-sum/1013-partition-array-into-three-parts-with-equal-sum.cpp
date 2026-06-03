@@ -21,8 +21,7 @@ public:
                 pos++;
             }
         }
-        if(zero==arr.size() ) return true;
-        if(tot==0 && neg==pos && neg%3==0 && pos%3==0) return true;
+        
         if(tot%3!=0)
         {
             return false;
