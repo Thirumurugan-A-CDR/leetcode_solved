@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
@@ -121,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0867-transpose-matrix/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Binary Search
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0933-number-of-recent-calls](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0933-number-of-recent-calls/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
