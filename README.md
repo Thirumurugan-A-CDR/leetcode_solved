@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0896-monotonic-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0896-monotonic-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1046-last-stone-weight](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1046-last-stone-weight/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1089-duplicate-zeros/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -185,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
+| [1046-last-stone-weight](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1046-last-stone-weight/) | Easy |
 ## Monotonic Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
