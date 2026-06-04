@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
