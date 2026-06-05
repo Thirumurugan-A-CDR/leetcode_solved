@@ -48,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1848-minimum-distance-to-the-target-element](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1869-longer-contiguous-segments-of-ones-than-zeros/) | Easy |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
