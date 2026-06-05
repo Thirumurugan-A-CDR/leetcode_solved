@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1539-kth-missing-positive-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1582-special-positions-in-a-binary-matrix/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
