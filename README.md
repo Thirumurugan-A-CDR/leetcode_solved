@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
@@ -317,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0299-bulls-and-cows/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
