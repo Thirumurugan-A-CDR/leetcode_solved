@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2833-furthest-point-from-origin](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2833-furthest-point-from-origin/) | Easy |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2839-check-if-strings-can-be-made-equal-with-operations-i/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -140,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2553-separate-the-digits-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
