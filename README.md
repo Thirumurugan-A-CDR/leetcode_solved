@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [2235-add-two-integers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2235-add-two-integers/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
