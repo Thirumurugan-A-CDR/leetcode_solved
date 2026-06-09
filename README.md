@@ -231,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
@@ -339,12 +340,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -401,4 +404,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
