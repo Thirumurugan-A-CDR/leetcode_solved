@@ -235,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -274,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3945-digit-frequency-score](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3945-digit-frequency-score/) | Easy |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
