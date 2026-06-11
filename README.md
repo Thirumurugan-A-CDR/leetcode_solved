@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1089-duplicate-zeros](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1089-duplicate-zeros/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
