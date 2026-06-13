@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -130,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3280-convert-date-to-binary](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2553-separate-the-digits-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3838-weighted-word-mapping](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
