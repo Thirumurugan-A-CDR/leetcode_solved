@@ -211,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
 | [0832-flipping-an-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0832-flipping-an-image/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1089-duplicate-zeros/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
@@ -327,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0147-insertion-sort-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0147-insertion-sort-list/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -412,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
