@@ -274,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
+| [0343-integer-break](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0343-integer-break/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -300,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
 | [0322-coin-change](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0343-integer-break](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
