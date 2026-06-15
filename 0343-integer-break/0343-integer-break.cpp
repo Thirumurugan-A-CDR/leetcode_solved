@@ -4,9 +4,6 @@ long long maxi=1;
 
 void func(int n,vector<int>& nums,long long curpro,int index,int cursum)
 {
-
- 
-
    if(cursum>n)
    {
     return;
@@ -16,15 +13,10 @@ void func(int n,vector<int>& nums,long long curpro,int index,int cursum)
    maxi=max(maxi,curpro);
    return;
   }
-    
-   
-    
    for(int i=index;i<nums.size();i++)
    {
      func(n,nums,curpro*nums[i],i,cursum+nums[i]);
    }
-
-
 }
 
     int integerBreak(int n) {
