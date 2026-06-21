@@ -10,6 +10,9 @@ public:
                 coins-=costs[i];
                 ans++;
             }
+            else{
+                break;
+            }
         }
         return  ans;
     }
