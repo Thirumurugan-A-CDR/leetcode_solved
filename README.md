@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0804-unique-morse-code-words/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [0804-unique-morse-code-words](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0804-unique-morse-code-words/) | Easy |
+| [1189-maximum-number-of-balloons](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0299-bulls-and-cows](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0299-bulls-and-cows/) | Medium |
+| [1189-maximum-number-of-balloons](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Tree
