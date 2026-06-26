@@ -71,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3936-minimum-swaps-to-move-zeros-to-end/) | Easy |
 ## Greedy
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -394,6 +396,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0547-number-of-provinces/) | Medium |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
