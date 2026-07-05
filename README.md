@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1486-xor-operation-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2235-add-two-integers/) | Easy |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
