@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
 | [1089-duplicate-zeros](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1089-duplicate-zeros/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
+| [1288-remove-covered-intervals](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
