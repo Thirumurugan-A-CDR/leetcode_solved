@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3280-convert-date-to-binary](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3516-find-closest-person](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3516-find-closest-person/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
