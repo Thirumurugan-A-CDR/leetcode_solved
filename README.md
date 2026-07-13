@@ -450,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1291-sequential-digits](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1291-sequential-digits/) | Medium |
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
