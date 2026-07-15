@@ -321,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3516-find-closest-person](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3516-find-closest-person/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
@@ -493,4 +494,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
