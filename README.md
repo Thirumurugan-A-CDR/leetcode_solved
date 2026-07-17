@@ -427,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0547-number-of-provinces](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0547-number-of-provinces/) | Medium |
+| [1791-find-center-of-star-graph](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1791-find-center-of-star-graph/) | Easy |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3898-find-the-degree-of-each-vertex/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
