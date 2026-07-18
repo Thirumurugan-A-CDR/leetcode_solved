@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1909-remove-one-element-to-make-the-array-strictly-increasing](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1909-remove-one-element-to-make-the-array-strictly-increasing/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2073-time-needed-to-buy-tickets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -312,6 +313,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1822-sign-of-the-product-of-an-array/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2235-add-two-integers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2235-add-two-integers/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
