@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
@@ -410,6 +411,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -419,11 +421,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1009-complement-of-base-10-integer/) | Easy |
