@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0496-next-greater-element-i/) | Easy |
+| [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1046-last-stone-weight/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Monotonic Queue
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0147-insertion-sort-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0147-insertion-sort-list/) | Medium |
 | [0242-valid-anagram](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0242-valid-anagram/) | Easy |
+| [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
