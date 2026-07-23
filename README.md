@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Matrix
@@ -489,6 +491,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
