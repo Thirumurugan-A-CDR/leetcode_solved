@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0037-sudoku-solver](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0037-sudoku-solver/) | Hard |
 | [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0061-rotate-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0142-linked-list-cycle-ii/) | Medium |
