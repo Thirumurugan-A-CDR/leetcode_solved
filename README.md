@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [0575-distribute-candies](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0575-distribute-candies/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -373,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0242-valid-anagram/) | Easy |
 | [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
 | [1288-remove-covered-intervals](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1288-remove-covered-intervals/) | Medium |
