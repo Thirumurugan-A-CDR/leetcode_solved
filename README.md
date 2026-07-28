@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3280-convert-date-to-binary](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3838-weighted-word-mapping](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -492,6 +494,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1051-height-checker/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
