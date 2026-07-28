@@ -4,7 +4,7 @@ public:
         if (s.length() == 1) return s;
 
         int n = s.length();
-        int half = n / 2;          // Only take the first half
+        int half = n / 2;       
         string firsthalf = "";
 
         for (int i = 0; i < half; i++) {
