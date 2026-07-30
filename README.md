@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [1046-last-stone-weight](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1046-last-stone-weight/) | Easy |
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0061-rotate-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
@@ -531,4 +534,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2807-insert-greatest-common-divisors-in-linked-list/) | Medium |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
