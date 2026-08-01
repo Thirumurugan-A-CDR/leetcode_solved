@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0416-partition-equal-subset-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0496-next-greater-element-i/) | Easy |
 | [0506-relative-ranks](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0506-relative-ranks/) | Easy |
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
@@ -166,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -326,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0343-integer-break/) | Medium |
 | [0423-reconstruct-original-digits-from-english](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0423-reconstruct-original-digits-from-english/) | Medium |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0453-minimum-moves-to-equal-array-elements/) | Medium |
+| [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0343-integer-break](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -538,4 +542,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
