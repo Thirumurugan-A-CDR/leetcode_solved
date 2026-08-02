@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0877-stone-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0877-stone-game/) | Medium |
 | [0896-monotonic-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0896-monotonic-array/) | Easy |
 | [0944-delete-columns-to-make-sorted](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0877-stone-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0877-stone-game/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1486-xor-operation-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1486-xor-operation-in-an-array/) | Easy |
@@ -370,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0343-integer-break/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0877-stone-game/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1553-minimum-number-of-days-to-eat-n-oranges](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1553-minimum-number-of-days-to-eat-n-oranges/) | Hard |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -546,4 +549,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
+| [0877-stone-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
