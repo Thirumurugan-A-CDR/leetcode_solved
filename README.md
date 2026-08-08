@@ -489,6 +489,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0183-customers-who-never-order/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0196-delete-duplicate-emails/) | Easy |
