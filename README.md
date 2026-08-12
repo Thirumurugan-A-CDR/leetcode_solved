@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2574-left-and-right-sum-differences](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2765-longest-alternating-subarray](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2765-longest-alternating-subarray/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0395-longest-substring-with-at-least-k-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0567-permutation-in-string/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2367-number-of-arithmetic-triplets](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2367-number-of-arithmetic-triplets/) | Easy |
 | [2540-minimum-common-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2540-minimum-common-value/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3731-find-missing-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
