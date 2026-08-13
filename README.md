@@ -297,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+| [0513-find-bottom-left-tree-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0547-number-of-provinces](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3310-remove-methods-from-project/) | Medium |
@@ -455,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0513-find-bottom-left-tree-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
