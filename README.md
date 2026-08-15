@@ -506,6 +506,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0178-rank-scores](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0178-rank-scores/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0183-customers-who-never-order](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0184-department-highest-salary/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0577-employee-bonus/) | Easy |
