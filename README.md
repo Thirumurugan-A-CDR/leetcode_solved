@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0006-zigzag-conversion](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0006-zigzag-conversion/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0242-valid-anagram/) | Easy |
@@ -260,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0061-rotate-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0061-rotate-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
@@ -375,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0064-minimum-path-sum/) | Medium |
@@ -576,4 +579,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [0877-stone-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0877-stone-game/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
