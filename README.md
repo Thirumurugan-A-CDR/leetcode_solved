@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1288-remove-covered-intervals](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1288-remove-covered-intervals/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -105,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0561-array-partition](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0561-array-partition/) | Easy |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1013-partition-array-into-three-parts-with-equal-sum/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0804-unique-morse-code-words](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0804-unique-morse-code-words/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1636-sort-array-by-increasing-frequency/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
@@ -485,6 +488,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0645-set-mismatch](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0645-set-mismatch/) | Easy |
 | [0832-flipping-an-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0832-flipping-an-image/) | Easy |
 | [1009-complement-of-base-10-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1009-complement-of-base-10-integer/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1486-xor-operation-in-an-array](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1486-xor-operation-in-an-array/) | Easy |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 ## Graph Theory
