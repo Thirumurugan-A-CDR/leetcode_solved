@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0279-perfect-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0279-perfect-squares/) | Medium |
 | [0319-bulb-switcher](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0319-bulb-switcher/) | Medium |
 | [0343-integer-break](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0343-integer-break/) | Medium |
@@ -388,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0064-minimum-path-sum/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -466,6 +468,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -477,6 +480,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
@@ -562,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 ## Brainteaser
