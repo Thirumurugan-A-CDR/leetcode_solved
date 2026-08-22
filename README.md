@@ -376,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3516-find-closest-person](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3516-find-closest-person/) | Easy |
 | [3536-maximum-product-of-two-digits](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) | Easy |
