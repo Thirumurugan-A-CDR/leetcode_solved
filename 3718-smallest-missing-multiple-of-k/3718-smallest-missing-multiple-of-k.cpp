@@ -4,7 +4,7 @@ public:
         set<int> s;
         for(int x:nums)
         {
-            s.insert(x);
+           if((x%k)==0) s.insert(x);
         }
 
         for(int i=1;k<=100;i++)
