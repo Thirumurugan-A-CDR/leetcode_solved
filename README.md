@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0695-max-area-of-island](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0695-max-area-of-island/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3310-remove-methods-from-project/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
@@ -495,6 +496,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -507,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0513-find-bottom-left-tree-value](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0513-find-bottom-left-tree-value/) | Medium |
 | [0938-range-sum-of-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0938-range-sum-of-bst/) | Easy |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1026-maximum-difference-between-node-and-ancestor/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
