@@ -372,6 +372,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [0507-perfect-number](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0507-perfect-number/) | Easy |
 | [0628-maximum-product-of-three-numbers](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0836-rectangle-overlap](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0877-stone-game/) | Medium |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -590,6 +591,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0836-rectangle-overlap/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
