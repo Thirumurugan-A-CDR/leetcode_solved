@@ -164,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0944-delete-columns-to-make-sorted](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0944-delete-columns-to-make-sorted/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -586,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0496-next-greater-element-i/) | Easy |
 | [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 ## Geometry
@@ -626,4 +628,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
