@@ -191,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0486-predict-the-winner](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0486-predict-the-winner/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 ## Simulation
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0023-merge-k-sorted-lists/) | Hard |
+| [0025-reverse-nodes-in-k-group](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0061-rotate-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0061-rotate-list/) | Medium |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
