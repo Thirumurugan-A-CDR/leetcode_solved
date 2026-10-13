@@ -97,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3731-find-missing-elements/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2216-minimum-deletions-to-make-array-beautiful/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -470,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3731-find-missing-elements/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
