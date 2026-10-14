@@ -160,6 +160,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0072-edit-distance](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0072-edit-distance/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0242-valid-anagram/) | Easy |
 | [0299-bulls-and-cows](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0299-bulls-and-cows/) | Medium |
@@ -431,6 +432,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0072-edit-distance/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0120-triangle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
