@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0011-container-with-most-water/) | Medium |
 | [0037-sudoku-solver](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0037-sudoku-solver/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0048-rotate-image/) | Medium |
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0056-merge-intervals/) | Medium |
@@ -298,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0011-container-with-most-water/) | Medium |
+| [0042-trapping-rain-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0061-rotate-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0061-rotate-list/) | Medium |
 | [0086-partition-list](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0141-linked-list-cycle/) | Easy |
@@ -425,6 +427,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0022-generate-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0055-jump-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0055-jump-game/) | Medium |
 | [0062-unique-paths](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0062-unique-paths/) | Medium |
 | [0064-minimum-path-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0064-minimum-path-sum/) | Medium |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0032-longest-valid-parentheses/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0496-next-greater-element-i/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0682-baseball-game](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0682-baseball-game/) | Easy |
@@ -639,6 +643,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0042-trapping-rain-water](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0042-trapping-rain-water/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0496-next-greater-element-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
