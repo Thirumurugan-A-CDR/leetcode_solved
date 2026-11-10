@@ -342,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0130-surrounded-regions](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0200-number-of-islands/) | Medium |
@@ -528,6 +529,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
@@ -542,6 +544,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0096-unique-binary-search-trees](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0101-symmetric-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0101-symmetric-tree/) | Easy |
+| [0110-balanced-binary-tree](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0116-populating-next-right-pointers-in-each-node/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
