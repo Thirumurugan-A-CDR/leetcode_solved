@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3190-find-minimum-operations-to-make-all-elements-divisible-by-three/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
@@ -249,6 +250,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Thirumurugan-A-CDR/leetcode_solved/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
